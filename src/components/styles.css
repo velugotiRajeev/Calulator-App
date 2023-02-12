@@ -1,0 +1,49 @@
+.result {
+  height: 60px;
+  width: 100%;
+  background-color:#5d5c61;
+  border-radius: 20px;
+  padding: 2px;
+  
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+  color: aqua;
+  
+}
+
+body {
+  background-image: url("https://ceblog.s3.amazonaws.com/wp-content/uploads/2018/10/25102630/best-colors-websites-1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.calculator-body {
+  padding: 40px;
+  max-width: 360px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+ 
+}
+
+button {
+  border-radius: 20px;
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  /* background-color: aquamarine; */
+  background-color: #b1a296
+
+  
+}
+
+h1{
+  text-align: center;
+  color: #b39BC8;
+}
